@@ -1,0 +1,30 @@
+{
+  "name": "fn-declare",
+  "version": "1.0.0",
+  "description": "Dynamically declare a function with specified amount of parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd-soft/fn-declare.git"
+  },
+  "keywords": [
+    "function",
+    "declare",
+    "dynamic",
+    "parameters",
+    "dynamic",
+    "arguments",
+    "dynaic",
+    "function",
+    "definition"
+  ],
+  "author": "JDSoftware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jd-soft/fn-declare/issues"
+  },
+  "homepage": "https://github.com/jd-soft/fn-declare#readme"
+}
